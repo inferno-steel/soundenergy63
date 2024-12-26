@@ -788,6 +788,13 @@ body{
             font-size: 18px;
         }
 
+        .product__list{
+            gap: 0 0;
+        }
+        .product__item{
+            flex-basis: 87%;
+        }
+
         .swiper-slide{
             width: 76%;
         }
